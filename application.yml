@@ -3,12 +3,12 @@
 #   factor: 1
 #   offset: 0
 
-# unit:
-#   symbol: K
-#   factor: 1
-#   offset: 273.15
-
 unit:
-  symbol: F
-  factor: 1.8
-  offset: 32
+  symbol: K
+  factor: 1
+  offset: 273.15
+
+# unit:
+#   symbol: F
+#   factor: 1.8
+#   offset: 32
